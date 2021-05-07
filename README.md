@@ -9,5 +9,5 @@ thise Repository include orignal document of  Database course design
  6.创建存储过程统计各仓库各种物料的现存数量； 
  7.创建存储过程统计指定时间段内各种物料的入库数量和领用数量； 
  8.建立数据库相关表之间的参照完整性约束；
- 针对上述问题，设计了如下界面，以实现相关功能。本设计采用python+pyqt5+qt_designer等工具完成
+ 针对上述问题，设计了相关界面，以实现对应功能。本设计采用python+pyqt5+qt_designer等工具完成
  连接的数据库为SQL server2008R2，文件夹中包含了数据库备份文件以及相关sql语句
